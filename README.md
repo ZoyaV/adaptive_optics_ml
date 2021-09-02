@@ -1,5 +1,7 @@
-# adaptive_optics_ml
-Adaptive optics machine learning experiments
+#Adaptive optics machine learning experiments
+*adaptive_optics_ml*
+
+## Intro
 
 In this repository, various experiments are presented to solve the problem of adaptive optics.
 
@@ -15,7 +17,7 @@ CONV-LSTM - predicts the next frame or abbreviation from a series of previous fr
 
 RL - Various approaches based on machine learning with reinforcement are considered (DDPG, PPO). Also on the link you can find a special environment for agent training (https://github.com/ZoyaV/ao_env).
 
-# History and example of algorithms job
+## History and example of algorithms job
 
 For each experiment there is a corresponding link to the project in WANDB
 
